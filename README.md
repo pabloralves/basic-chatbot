@@ -76,12 +76,7 @@ A simple chatbot with a **React (Vite)** frontend and **Python (FastAPI)** backe
 
 ## Snippets / videos
 
-Demo screenshots are in `docs/screenshots/`:
-
-- [demo-1440p.png](docs/screenshots/demo-1440p.png) – desktop view
-- [demo-GalaxyS10.png](docs/screenshots/demo-GalaxyS10.png) – mobile view
-
-Add more screenshots or a short screen recording to the same folder and link them here if you like.
+Demo screenshots, videos and slides are in `docs/screenshots/`:
 
 ## Code in a zip file
 
