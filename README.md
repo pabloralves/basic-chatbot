@@ -2,6 +2,8 @@
 
 A simple chatbot with a **React (Vite)** frontend and **Python (FastAPI)** backend that uses the **Azure OpenAI API** to answer questions.
 
+![Sample screenshot](https://github.com/pabloralves/basic-chatbot/blob/master/docs/screenshots/screenshot-1440p.png)
+
 ## What’s included
 
 - **Frontend**: Input box, Send button, response area, Clear button, and “Thinking...” loading state. Dark blue starfield background, light chat panel, and robot favicon.
